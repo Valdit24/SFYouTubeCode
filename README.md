@@ -1,2 +1,2 @@
-# SFYouTubeCode
-Skill Foundry YouTube code samples and demos
+# SFYouTube
+Skill Foundry YouTube code Samples and Demos
